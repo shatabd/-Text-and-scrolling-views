@@ -1,4 +1,4 @@
-# -Text-and-scrolling-views
+# Text-and-scrolling-views
 
 ## Tasks
 
